@@ -1,0 +1,5 @@
+their audio aura, based on the average of the energy, danceability, and valence of their top 100 song, would be purple since their average danceability is quite high at 0.716
+and energy at 0.655.
+however this way of calculating and trying to represent the listener audio aura may not be accurate as i am using the data of a subjectively given value and a larger sample size would be needed
+to make a better a conclusion.
+more consideration should be accounted for like the genre they listen to, and whether there are bias towards a certain area of mood aura just because they like a certain artist work and that artist tends to do a certain type of music

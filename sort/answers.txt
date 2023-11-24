@@ -1,0 +1,53 @@
+                sort1 uses: bubble sort
+random5000: 0.098s
+random10000: 0.327s
+random50000: 8.431s
+
+reversed5000: 0.093s
+reversed10000: 0.268s
+reversed50000: 5.865s
+
+sorted5000: 0.028s
+sorted10000: 0.086s
+sorted50000: 0.677s
+
+
+                                            How do you know?: out of the 3 sorting algorithm, bubble algorithm is the only 1 that have the
+                                            time needed to sort to not remain constant in the best and worst case scenario. the differences
+                                            between the best case and worst case scenario is also the most noticable here just like in the
+                                            algorithm pattern/formula of being n and n squared.
+
+                sort2 uses: TODO    merge sort
+random5000: 0.041s
+random10000: 0.055s
+random50000: 0.63s
+
+reversed5000: 0.034s
+reversed10000: 0.087s
+reversed50000: 0.507s
+
+sorted5000: 0.024s
+sorted1000:0.091s
+sorted50000: 0.585s
+
+                                    How do you know?: out of the process of elimination the merge sort is either sort 2 or sort 3 and since
+                                    merge sort usually outperform selection sort out of all scenario, and sort 2 outperform sort 3 in all
+                                    scenario, then by process of elimination this is merge sort.
+
+            sort3 uses: TODO    selection sort
+random5000: 0.061s
+random10000: 0.155s
+random50000: 3.227
+
+reversed5000: 0.059s
+reversed10000: 0.161s
+reversed50000: 3.121s
+
+sorted5000: 0.048s
+sorted10000: 0.152s
+sorted50000: 3.23s
+
+                                    How do you know?:although this outperform sort1 on certain scenario, when talking about the best case
+                                    scenario which is the sorted file, it clearly looses to sort1 as suggested by the algorithm pattern
+                                    of selection and bubble sorting. anotherthing worth mentioning is that on all 3 scenario the time
+                                    it takes are all constant just like what the selection sort suggests.
